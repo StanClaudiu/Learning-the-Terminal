@@ -1,0 +1,25 @@
+The commands I am learning today
+22.04.2022
+1.Pwd-print working directory (already known)
+2.ls - list (already known)
+3.cd - change directory ( a.k.)
+ -> .. (parent directory)
+ -> . (curent directory)
+ -> ~ -> Home-ul meu
+4.clear(evindently) ////-->Trick CMD+K
+5. touch (a.k.)
+with tab we have autocomplation
+primul tab->optiuni
+restul iti arata
+6.nano (semi known..I m familiar with pico but nano seems better)
+uses ctrl
+7.open (a.k.)
+8.history (a.k.)
+9.rm (a.k.) to delete
+-->mod -r recursive///le sterge direct!...nu poti face Cmd Z
+10.mkdir (a.k.)
+11.man(a.k.)
+Structura : vv/ ->root
+	     /Users->
+	     /Me
+              /->desk,etc!
