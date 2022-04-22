@@ -1,3 +1,4 @@
+-----First Tutorial
 The commands I am learning today
 22.04.2022
 1.Pwd-print working directory (already known)
@@ -23,3 +24,38 @@ Structura : vv/ ->root
 	     /Users->
 	     /Me
               /->desk,etc!
+------First Tutorial
+
+
+-------Second Tutorial (More Serious)
+
+
+
+
+
+
+
+
+-------Second Tutorial
+
+ --> xcode+homebrew
+
+Instalation of cask->good because it helps me get tools more easier b
+
+--brew search ...app
+---bmodel curent -> brew <cmd> --cask 
+Am instalat firefox totusi...trebuie avut grija
+
+htop --->sudo htop manager mai bun sa vezi ce se intampla in pc-ul tau
+
+speedtest-cli ->test de viteza
+
+///daca voi dori sa iau un video de pe youtube sa-l downloadez...avem 
+brew install youtube-dl
+apoi adaug ffmpeg
+best to use help
+
+u can also make imagemagick..le schimba si formatul aparent
+
+
+
