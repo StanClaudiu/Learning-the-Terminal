@@ -29,15 +29,6 @@ Structura : vv/ ->root
 
 -------Second Tutorial (More Serious)
 
-
-
-
-
-
-
-
--------Second Tutorial
-
  --> xcode+homebrew
 
 Instalation of cask->good because it helps me get tools more easier b
@@ -56,6 +47,160 @@ apoi adaug ffmpeg
 best to use help
 
 u can also make imagemagick..le schimba si formatul aparent
+
+
+
+
+-------Second Tutorial
+
+-------Third Tutorial
+
+1. cd -- >te duce unde ai fost înainte
+2. find
+	a.where to start looking
+	b.-name +expresie regulata
+	. ->one back
+	/->from root
+3. locate
+	a.works faster
+4. more->same as less now
+5. tail -n 2 pe cine
+6.head -n 10 file
+7.cp ->copy for files
+cp ___ce ___ unde
+-i nu ne pasa ca suprascriem
+-r un intreg director
+8.mv ->pentru a muta
+ directoare / fisiere
+9.rm for dir/fis
+->i ->wants permision
+10.rmdir easier for empty dir
+11. tricks for find
+-name e ca si cum nu se mai adanceste inauntru!
+
+-iname ->indiferent
+
+find ->type  a.f
+	     b.d	
+     ->name
+
+?->un caracter neap
+*->oricat de mult
+
+tip->you don't have to actually search for smth,si iti va returna aboslut tot
+
+-mmin -10 ..modificate acum cel putin 10 minute,+10 more
+
+interesant este ca.. folosind find nu trebuie neaparat sa faci match pe un rahat
+
+--->find ...unde? si conditii ..fara neaparat un pattern
+-mtime 20-->days
+
+deci...fara -name cauta peste tot! orice face match
+cu name-->cauta orice face match,dar nu si in adancime
+
+-->mmin and mmtime
+-->amin and atime for access minutes and access time
+-->cmin and ctime for changed..maybe the name?
+
+
+Search by file-sizes
+
+-find . -size +5M
+-find . -empty -->pe files si directoare
+
+Search by Permision 
+
+-find -prem 777 ->111 111 111 all of em
+
+totusi aici nu pot cauta putin mai sofisticat??
+
+Using find with commands
+
+find Folder -exec ...cmd
+oooh so -exec ...... {} + altfel crapa
+{}->e un fel de holder..gen ca sa le itereze dupa
+cu ";" sus in jos
+    + concatenate
+
+regula de baza... find path si drq ce vrei tu
+vreau sa sterg tot ce se termina cu "*.jpg"
+
+well
+find . -name "*.jpg" -exec rm {} "text*"
+
+Search with maxdepth
+
+-maxdepth 1->curent
+
+---Third Tutorial..predominant find-->AWESOME!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
