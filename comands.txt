@@ -135,6 +135,24 @@ Search with maxdepth
 
 ---Third Tutorial..predominant find-->AWESOME!
 
+---Forth Tutorial
+
+
+
+---Forth Tutorial
+
+ls 
+-a ->the hidden as well
+-l ->long form
+
+Nothing new really
+Still: / is the root
+	~->/Users/Me
+	and locally changing the directory
+
+
+---Forth Tutorial
+
 
 
 
