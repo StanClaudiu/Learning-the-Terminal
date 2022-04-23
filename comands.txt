@@ -153,6 +153,38 @@ Still: / is the root
 
 ---Forth Tutorial
 
+---Fifth Tutorial --->the grep command
+
+global regular expresion print
+
+grep ...ce ...de unde(file,input txt)
+-w ->whole word
+-i ->indiferent
+-n ->the line it found it
+-B  ..cate ->how many lines before
+-A ..cate ->how many lines after
+-C ..cate ->how many back after->context
+-r ..cauta recursiv si prin directoare
+se baga in director
+Pentru ./-->error bcs it is a directory
+but! /* works fine bcs we take every file
+with directories it's kinda shady " " 
+-l we get the location as a file!-->combined with r
+-c ->the number of matches
+| ->pe pipe-uri..va lua ce vin si face grep automat pe el
+Regular expresions -> . match pe orice chiar si null
+		  ->-P for linux
+We need GNU for grep
+		
+---Fifth Tutorial 
+
+---Sixth Tutorial ->Learn the regular expresions in the terminal
+
+
+
+
+---Sixth Tutorial
+
 
 
 
