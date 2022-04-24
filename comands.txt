@@ -176,6 +176,7 @@ Regular expresions -> . match pe orice chiar si null
 		  ->-P for linux
 We need GNU for grep
 		
+Cut -d:.. -f:.. 
 ---Fifth Tutorial 
 
 ---Sixth Tutorial ->Learn the regular expresions in the terminal
@@ -185,6 +186,11 @@ We need GNU for grep
 
 ---Sixth Tutorial
 
+--Seventh Tutorial
+
+
+
+--Seventh Tutorial
 
 
 
