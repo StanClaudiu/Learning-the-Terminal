@@ -244,6 +244,15 @@ git diff imi arata ce schimbari am facut prin file
 - ce ai sters
 + ce ai adaugat
 
+
+facem git pull origin master-->ce au mai modificat altii
+      git push origin master-->dupa ce sincronizam tot punem si noi!
+
+
+----Let's see a common workflow when working with git
+
+cu git branch .... ->facem un nou branch fata de cine? fata de main?
+
 ----GiT!!!
 
 
