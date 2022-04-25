@@ -251,7 +251,18 @@ facem git pull origin master-->ce au mai modificat altii
 
 ----Let's see a common workflow when working with git
 
-cu git branch .... ->facem un nou branch fata de cine? fata de main?
+cu git branch .... ->facem un nou branch fata de cine? fata de cel de mai inainte!!!?
+   git checkout ...the brach
+git branch..imi arata toate pe cele pe care le am local
+git push -u origin ..branch mi le duce pe site:)),intr-un fel mi le declara I believe,mi le duce in remote..sa le vada si el-->exact
+
+git pull/push origin-->asta e gen repo
+git branch --merged care deja au fost merge-uite
+git merge ->ce branch vrei
+
+git branch -d ..pe cine doar local!
+
+git push origin --delete pe cine
 
 ----GiT!!!
 
