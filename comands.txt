@@ -188,9 +188,63 @@ Cut -d:.. -f:..
 
 --Seventh Tutorial
 
+Curl command
+^^^^ Create urlS
+-->intr-un fel iti da info de la un anumit url!
+-i iti da date in plus
+-d send data
 
 
 --Seventh Tutorial
+
+---Git Tutorial
+tipuri de 'gituri' ->centralizat and distribuit
+git config --list ->sa vedem lista
+git config --global user.name ...
+git config --global user.email ..
+git help ...
+git .. --help
+
+
+--->avem un project existent si vrem sa-l facem git!
+
+1.git init
+
+git status iti spune
+
+--->Cum sa nu tinem trace
+
+cu .gitignore-->nu le va tine
+accepta expresii regulate-->trebuie sa ii dai add totusi..ca in eventualitatea refacetii sa sti
+ca mereu s-au ignorat fisierele acelea
+
+we have WD -> Staging Area -> Git directory
+pentru git add -A ->tot
+
+git status iti spune si ce urmeaza sa faci commit
+
+git reset -> ti le scoate din staging Area
+
+cu git log vedem ce commit-uri s-au mai dat!
+
+
+
+----facem clone la repo
+
+git clone ...what ...where
+
+git remote -v
+git branch -a
+
+
+
+cand vreau sa pun
+
+git diff imi arata ce schimbari am facut prin file
+- ce ai sters
++ ce ai adaugat
+
+----GiT!!!
 
 
 
