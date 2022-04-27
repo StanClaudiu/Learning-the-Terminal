@@ -266,6 +266,12 @@ git push origin --delete pe cine
 
 ----GiT!!!
 
+--JavaScript
+
+Finished the tutorial
+
+-----
+
 
 
 
